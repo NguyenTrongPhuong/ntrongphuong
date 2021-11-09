@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AppOrderFoods" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/colorWhite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <dimen name="size10dp">10dp</dimen>
+    <dimen name="size30sp">30sp</dimen>
+    <dimen name="size70dp">70dp</dimen>
+    <dimen name="size190dp">190dp</dimen>
+    <dimen name="size18sp">18sp</dimen>
+    <dimen name="size5dp">5dp</dimen>
+    <dimen name="size100dp">100dp</dimen>
+
+</resources>
